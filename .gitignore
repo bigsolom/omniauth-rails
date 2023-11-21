@@ -36,3 +36,7 @@
 
 # Ignore envrinonment variables
 .env
+.envrc
+
+# Byebug
+.byebug_history
