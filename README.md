@@ -370,4 +370,5 @@ Feel free to leave any comments or questions below or reach out to me on email a
 # Links
 
 [Same site cookies](https://andrewlock.net/understanding-samesite-cookies/)
+[Guide for this app](https://dev.to/anne46/google-omniauth-in-a-rails-app-36ka)
 
